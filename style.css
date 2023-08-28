@@ -1,0 +1,28 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fdf1cc;
+    color: #e3ad40;
+    height: 80px;
+}
+
+h2{
+    text-decoration: 3px underline #e3ad40;
+    padding-left: 15px;
+}
+
+div{
+    padding-left: 35px;
+    padding-right: 25px;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    font-size: 18px;
+    color: #a78238;
+    padding-left: 15px;
+}
